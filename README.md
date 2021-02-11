@@ -31,7 +31,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
 
-☞ I’m currently looking to collaborate on Open Source Projects > [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) 
+☞ I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
 
  
