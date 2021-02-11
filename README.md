@@ -31,20 +31,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
 
 
-
-![Twitter Follow](https://img.shields.io/twitter/follow/AL0YSI0US?style=social) 
-
-
-
-
-
-
-
-
-
-
-
-![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
+![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)![Twitter Follow](https://img.shields.io/twitter/follow/AL0YSI0US?style=social) 
 
 
 
