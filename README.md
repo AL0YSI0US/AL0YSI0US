@@ -24,9 +24,6 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 
 ## &#x1f4c8; GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
-
-![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
-<a href="https://github.com/AL0YSI0US/AL0YSI0US">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&?theme=cobalt" /></a> 
 
