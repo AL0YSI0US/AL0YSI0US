@@ -1,8 +1,9 @@
-# ✨ Hello wanderer.....my name is Aloysious 👋 [aloe-wish-iss]
+# ✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss]
+
 
 🌱 In the present moment I’m studying Python @Codefellows. 
 
-I have a passion for equality, equity, accountability and activism,
+I have a passion for **equality, equity, accountability** and **activism,**
 
 and the desire to bring said energy with me and into the tech industry.
 
@@ -13,6 +14,8 @@ and the desire to bring said energy with me and into the tech industry.
 I served over a decade in the US Armed forces,
 
 I'll be leveraging skills from my past, to fuel my vision for the future.
+
+☞ I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
@@ -31,7 +34,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
 
-☞ I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
+
 
 
  
