@@ -28,13 +28,15 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&?theme=cobalt" /></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats)
 
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 <details>
-  <summary markdown="span">.....</summary>
+  <summary markdown="span">:space_invader:</summary>
   
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/AL0YSI0US?style=social) 
