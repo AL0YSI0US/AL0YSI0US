@@ -7,9 +7,9 @@ I have a passion for equality, equity, accountability and activism,
 and the desire to bring said energy with me and into the tech industry.
 
 ----
-<br>
+
 > ***whoAmI?*** **:** Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = **Humxn**
-<br>
+
 I served over a decade in the US Armed forces,
 
 I'll be leveraging skills from my past, to fuel my vision for the future.
