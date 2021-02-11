@@ -36,7 +36,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/AL0YSI0US?style=social) 
   
-  [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
+  [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/AL0YSI0US/)
 
 </details>
 
