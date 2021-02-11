@@ -27,12 +27,16 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
   
-- 👯 I’m looking to collaborate on Open Source Projects > aloysiousx@gmail.com 
+- 👯 I’m looking to collaborate on Open Source Projects > [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) 
 
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: [Text to display](link){:target="_blank"}
+
+Relative links
 
 Here are some ideas to get you started:
 
