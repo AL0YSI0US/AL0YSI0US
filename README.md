@@ -1,4 +1,4 @@
-# Hello wanderer, my name is Aloysious 👋 [aloe-wish-iss]
+# Hello wanderer.....my name is Aloysious 👋 [aloe-wish-iss]
 
 🌱 In the present moment I’m studying Python @Codefellows.
 
@@ -6,8 +6,10 @@ I have a passion for equality, equity, accountability and activism,
 
 and the desire to bring said energy with me and into the tech industry.
 <br>
-> Parent.Community Volunteer.Mentor.Permissionary.Humanistic.Autistic.Queer.Black = Humxn
+> ***whoAmI?*** **:** Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = **Humxn**
 <br>
+
+----
 I served over a decade in the US Armed forces,
 
 I'll be leveraging skills from my past, to fuel my vision for the future.
@@ -27,7 +29,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0f1a6e" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
   
 ☞ I’m looking to collaborate on Open Source Projects > [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) 
 
