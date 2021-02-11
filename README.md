@@ -1,6 +1,5 @@
 # ✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss] ✨
 
-
 :books: In the present moment I’m studying Python @Codefellows. 
 
 I have a passion for **equality, equity, accountability** and **activism,**
@@ -25,13 +24,18 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
 
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
 
 ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
+
+
+{::options parse_block_html="false" /}
+
+<div align="center">
 
 
 <!--
