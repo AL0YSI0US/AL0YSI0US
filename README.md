@@ -1,4 +1,4 @@
-# Hello there wanderer 👋
+# Hello there wanderer...Aloysious here 👋
 
 🌱 In the present moment I’m studying Python @Codefellows.
 
@@ -22,13 +22,13 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 
 ## &#x1f4c8; GitHub Stats
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
+
 ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" /></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
-
+  
 - 👯 I’m looking to collaborate on Open Source Projects > aloysiousx@gmail.com 
 
 <!--
