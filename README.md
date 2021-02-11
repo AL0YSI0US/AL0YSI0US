@@ -34,6 +34,20 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 
 
 
+![Twitter Follow](https://img.shields.io/twitter/follow/AL0YSI0US?style=social) 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
