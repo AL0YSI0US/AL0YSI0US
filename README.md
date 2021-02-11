@@ -1,17 +1,18 @@
-# Hello wanderer.....my name is Aloysious 👋 [aloe-wish-iss]
+# ✨ Hello wanderer.....my name is Aloysious 👋 [aloe-wish-iss]
 
-🌱 In the present moment I’m studying Python @Codefellows.
+🌱 In the present moment I’m studying Python @Codefellows. 
 
 I have a passion for equality, equity, accountability and activism,
 
 and the desire to bring said energy with me and into the tech industry.
+
 ----
+<br>
+> ***whoAmI?*** **:** Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = **Humxn**
+<br>
 I served over a decade in the US Armed forces,
 
 I'll be leveraging skills from my past, to fuel my vision for the future.
-<br>
-> ***whoAmI?*** **:** Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Poet . Black = **Humxn**
-<br>
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
@@ -30,20 +31,52 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
   
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=092b70" /></a> 
   
-☞ I’m looking to collaborate on Open Source Projects > [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) 
+☞ I’m currently looking to collaborate on Open Source Projects > [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: [Text to display](link){:target="_blank"}
 
-Relative links
-
-Here are some ideas to get you started:
+| Default aligned | Left aligned | Center aligned  | Right aligned  |
+|-----------------|:-------------|:---------------:|---------------:|
+| First body part | Second cell  | Third cell      | fourth cell    |
+| Second line     | foo          | **strong**      | baz            |
+| Third line      | quux         | baz             | bar            |
+|-----------------+--------------+-----------------+----------------|
+| Second body     |              |                 |                |
+| 2nd line        |              |                 |                |
+|-----------------+--------------+-----------------+----------------|
+| Third body      |              |                 | Foo            |
+{: .custom-class #custom-id}
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
