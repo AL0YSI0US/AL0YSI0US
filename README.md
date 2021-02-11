@@ -25,9 +25,8 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 ## &#x1f4c8; GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats)![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats) ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
-
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
@@ -36,6 +35,8 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
   
   
   ![Twitter Follow](https://img.shields.io/twitter/follow/AL0YSI0US?style=social) 
+  
+  [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
 
 </details>
 
