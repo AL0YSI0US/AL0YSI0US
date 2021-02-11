@@ -15,7 +15,7 @@ I served over a decade in the US Armed forces,
 
 I'll be leveraging skills from my past, to fuel my vision for the future.
 
-☞ I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
+:bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
