@@ -21,14 +21,22 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
 
-
 ## &#x1f4c8; GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
-  
+
+
+## Remembering those who have fallen and the inevitable to come.
+## I cry for my brothers and sisters tears of love and tears of joy.
+
+![BHM](https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg)
+
+I am celebrating us all.
+“We all have a sphere of influence. Each of us needs to find our own sources of courage so that we can begin to speak. There are many problems to address, and we cannot avoid them indefinitely. We cannot continue to be silent. We must begin to speak, knowing that words alone are insufficient. But I have seen that meaningful dialogue can lead to effective action. Change is possible.”
+
+― Beverly Daniel Tatum
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats) ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
-
-![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 <details>
   <summary markdown="span">:space_invader:</summary>
@@ -40,8 +48,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 
 </details>
 
-![BHM](https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg)
-
+![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
