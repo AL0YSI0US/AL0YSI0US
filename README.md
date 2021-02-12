@@ -14,10 +14,17 @@ I served over a decade in the US Armed forces,
 
 I'll be leveraging skills from my past, to fuel my vision for the future.
 
+
+
 :bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
+
+
 
 ## &#x1f4c8; GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=onedark=row=1&column=7)](https://github.com/AL0YSI0US/github-profile-trophy)
+
+
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
@@ -25,6 +32,11 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
 
 ----
+
+<!--
+       BLACK HISTORY MONTH
+-->
+
 
 ## Remembering those who have fallen and the inevitable to come.
 ## I cry for my brothers and sisters, tears of love and tears of joy.
@@ -40,8 +52,12 @@ I am celebrating us all.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats) ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
 
+
+
+
+
 <details>
-  <summary markdown="span">:space_invader:</summary>
+  <summary markdown="span"></summary>
   
   
 
@@ -52,12 +68,18 @@ I am celebrating us all.
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 <details>   
-  <summary markdown="span">:space_invader: Professional stuffs</summary>
+  <summary markdown="span">Professional stuffs</summary>
   
   ![pointRight](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLaM_kR6bHmCQW7gvyEfvWijx3tqNbNa0xA&usqp=CAU) [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
   
 
 </details>
+
+
+
+
+
+
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
