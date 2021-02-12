@@ -52,20 +52,9 @@ I am celebrating us all.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats) ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
 
-
-
-
-
-<details>
-  <summary markdown="span">Silly things</summary>
-  
-  
+![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/AL0YSI0US/)
-
-</details>
-
-![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 <details>   
   <summary markdown="span">Professional stuffs</summary>
