@@ -40,6 +40,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 
 </details>
 
+![BHM](https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg)
 
 
 <!--
