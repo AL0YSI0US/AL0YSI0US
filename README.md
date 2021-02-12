@@ -51,17 +51,18 @@ I am celebrating us all.
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
-<details>
+<details>   
+  <summary markdown="span">:space_invader: Professional stuffs</summary>
   
   ![pointRight](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLaM_kR6bHmCQW7gvyEfvWijx3tqNbNa0xA&usqp=CAU) [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
   
-  
-<details>
-  <summary markdown="span">:space_invader:</summary>
+
+</details>
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+<details>
+  <summary markdown="span">:space_invader:</summary>
 
 To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: [Text to display](link){:target="_blank"}
 
