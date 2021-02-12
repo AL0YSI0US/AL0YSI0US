@@ -27,7 +27,7 @@ I'll be leveraging skills from my past, to fuel my vision for the future.
 ----
 
 ## Remembering those who have fallen and the inevitable to come.
-## I cry for my brothers and sisters tears of love and tears of joy.
+## I cry for my brothers and sisters, tears of love and tears of joy.
 
 ![BHM](https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg)
 
