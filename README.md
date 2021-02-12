@@ -57,7 +57,7 @@ I am celebrating us all.
 
 
 <details>
-  <summary markdown="span"></summary>
+  <summary markdown="span">Silly things</summary>
   
   
 
