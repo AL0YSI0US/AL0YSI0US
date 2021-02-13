@@ -56,12 +56,6 @@ I am celebrating us all.
 
 
 
- 
- 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AL0YSI0US)]
-
-
-
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
