@@ -41,17 +41,35 @@
 
 
 ## Remembering those who have fallen and the inevitable to come.
-## I cry for my brothers and sisters, tears of love and tears of joy.
+
+### I cry for my brothers and sisters, tears of love and tears of joy. 
+                        
+
+
 
 ![BHM](https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg)
 
-I am celebrating us all.
 
-“We all have a sphere of influence. Each of us needs to find our own sources of courage so that we can begin to speak. There are many problems to address, and we cannot avoid them indefinitely. We cannot continue to be silent. We must begin to speak, knowing that words alone are insufficient. But I have seen that meaningful dialogue can lead to effective action. Change is possible.”
+<pre><code>  
+        I am celebrating us all.
 
-― Beverly Daniel Tatum
+                                   “We all have a sphere of influence. 
+                                    Each of us needs to find our own sources of courage 
+                                    so that we can begin to speak. 
+                                    There are many problems to address, 
+                                    and we cannot avoid them indefinitely. 
+                                    We cannot continue to be silent. 
+                                    We must begin to speak, 
+                                    knowing that words alone are insufficient. 
+                                    But I have seen that meaningful dialogue 
+                                    can lead to effective action. 
+                                    Change is possible.”
 
-----
+                                          ― Beverly Daniel Tatum
+                                                                     
+                                                                     </code></pre>
+
+
 
 [![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=cobalt)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)
 
