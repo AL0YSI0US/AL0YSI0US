@@ -49,7 +49,7 @@ I am celebrating us all.
 ― Beverly Daniel Tatum
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats) ![AL0YSI0US GitHub stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)](https://github.com/AL0YSI0US/github-readme-stats) [![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=chartreuse-dark)(https://github.com/AL0YSI0US/github-readme-stats)
 <a href="https://github.com/AL0YSI0US/AL0YSI0US">
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
