@@ -24,7 +24,7 @@
 
 
 ## &#x1f4c8; GitHub Stats 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7)
 
 
 ## 🔧 Technologies & Tools
@@ -76,7 +76,7 @@
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <details>   
   <summary markdown="span">Professional stuffs</summary>
