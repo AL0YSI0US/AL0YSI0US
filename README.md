@@ -17,7 +17,7 @@
                       I'll be leveraging skills from my past, to fuel my vision for the future.
                 
 
-                            Remember to 🌟star🌟this repo so others can find it too! 👀  
+                           Remember to 🌟star🌟this repo so others can find it too! 👀  
                                                                        
 </code></pre>
 
