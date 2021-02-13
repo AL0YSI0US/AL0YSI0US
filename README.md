@@ -70,7 +70,8 @@
 
 
 
-![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=blue-green)](https://github.com/AL0YSI0US/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)
+![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=blue-green) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&theme=blue-green)
+
 
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
@@ -113,7 +114,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 
-![HitCount](http://hits.dwyl.io/AL0YSIOUS/badges.svg)](http://hits.dwyl.io/AL0YSI0US/badges) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AL0YSI0US?tab=followers) 
+![HitCount](http://hits.dwyl.io/AL0YSIOUS/badges.svg)] ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AL0YSI0US?tab=followers) 
 
 
 
