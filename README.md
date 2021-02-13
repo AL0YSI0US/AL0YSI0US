@@ -50,11 +50,7 @@ I am celebrating us all.
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)
-
-[![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=cobalt)
-
-
+[![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=cobalt) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)
 
 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
