@@ -125,7 +125,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=cobalt=Follow&maxAge=2592000)](https://github.com/AL0YSI0US?tab=followers)
+![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=cobalt=Follow&maxAge=2592000)
 
 <details>
   <summary markdown="span">:space_invader:</summary>
