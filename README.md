@@ -1,29 +1,31 @@
 # ✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss] ✨ 
                                                                                    
-:books: In the present moment I’m studying Python @Codefellows. 
+<pre><code>  
+                                              
+    📚 In the present moment I’m studying Python @Codefellows. 
+    
 
-I have a passion for **equality, equity, accountability** and **activism,**
+                        I have a passion for Equality, Equity, Accountability and Activism,
 
-and the desire to bring said energy with me and into the tech industry.
+                      and the desire to bring said energy with me and into the tech industry.
 
-----
+     whoAmI? : Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = Humxn
 
-> ***whoAmI?*** **:** Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = **Humxn**
+                                  I served over a decade in the US Armed forces,
 
-I served over a decade in the US Armed forces,
+                      I'll be leveraging skills from my past, to fuel my vision for the future.
+                
 
-I'll be leveraging skills from my past, to fuel my vision for the future.
-
+                            Remember to 🌟star🌟this repo so others can find it too! 👀  
+                                                                       
+</code></pre>
 
 
 :bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
 
-
 ## &#x1f4c8; GitHub Stats 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7)
-
-
 
 
 ## 🔧 Technologies & Tools
@@ -76,6 +78,14 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
 
+
+
+
+
+
+
+
+
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -102,5 +112,25 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<pre><code>  
+                                              
+    📚 In the present moment I’m studying Python @Codefellows. 
+    
+
+                        I have a passion for Equality, Equity, Accountability and Activism,
+
+                      and the desire to bring said energy with me and into the tech industry.
+
+     whoAmI? : Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = Humxn
+
+                                  I served over a decade in the US Armed forces,
+
+                      I'll be leveraging skills from my past, to fuel my vision for the future.
+                
+
+                            Remember to 🌟star🌟this repo so others can find it too! 👀  
+                                                                       
+</code></pre>
 
 -->
