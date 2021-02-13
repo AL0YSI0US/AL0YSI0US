@@ -103,8 +103,28 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 
+
+
+
+
+
+
+
+
+
+
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/AL0YSI0US/badges) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) [![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/AL0YSI0US?tab=followers) 
+
+
+
+
+
+
+
 <!--
 **AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=cobalt=Follow&maxAge=2592000)](https://github.com/AL0YSI0US?tab=followers)
 
 <details>
   <summary markdown="span">:space_invader:</summary>
@@ -130,20 +150,19 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
 <pre><code>  
                                               
-    📚 In the present moment I’m studying Python @Codefellows. 
-    
 
-                        I have a passion for Equality, Equity, Accountability and Activism,
 
-                      and the desire to bring said energy with me and into the tech industry.
 
-     whoAmI? : Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = Humxn
+                           EDIT CODE HERE
 
-                                  I served over a decade in the US Armed forces,
 
-                      I'll be leveraging skills from my past, to fuel my vision for the future.
+
+
                 
 
                             Remember to 🌟star🌟this repo so others can find it too! 👀  
