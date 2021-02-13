@@ -1,5 +1,6 @@
 # ✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss] ✨ 
-                                                                                   
+:bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
+        
 <pre><code>  
                                               
     📚 In the present moment I’m studying Python @Codefellows. 
@@ -20,8 +21,6 @@
                                                                        
 </code></pre>
 
-
-:bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
 
 ## &#x1f4c8; GitHub Stats 
