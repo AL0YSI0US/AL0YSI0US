@@ -50,9 +50,19 @@ I am celebrating us all.
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)]  [![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=cobalt)(https://github.com/AL0YSI0US/github-readme-stats)
-<a href="https://github.com/AL0YSI0US/AL0YSI0US">
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US)
+
+[![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=cobalt)
+
+
+
+ 
+ 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AL0YSI0US)]
+
+
+
+
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 [![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
