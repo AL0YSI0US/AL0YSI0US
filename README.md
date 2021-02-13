@@ -113,8 +113,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 
-
-![HitCount](http://hits.dwyl.io/AL0YSIOUS/badges.svg) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)
+![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)
 
 
 
