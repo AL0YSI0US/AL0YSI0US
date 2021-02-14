@@ -81,7 +81,7 @@
 <details>   
   <summary markdown="span">Professional stuffs</summary>
   
-  ![pointRight](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvLaM_kR6bHmCQW7gvyEfvWijx3tqNbNa0xA&usqp=CAU) [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
   
 
 </details>
