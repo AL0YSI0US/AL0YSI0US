@@ -88,10 +88,12 @@
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <details>   
-  <summary markdown="span">💼 Professional and Social Bits</summary>
+  <summary markdown="span">💼 Professional Bits</summary>
   
-💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
+
+💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+:bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
   
 
 </details>
