@@ -1,4 +1,16 @@
 # ✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss] ✨ 
+<!-- =Email /Social Media============= -->
+
+<!--
+<p align="center">                           [Will need Images in order to render]
+<a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="./images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/notReal/" target="_blank"><img height="30" src="./images/facebook.png"></a>&nbsp;&nbsp;
+<a href="mailto:aloysiousx@gmail.com" target="_blank"><img height="30" src="./images/gmail.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/AL0YSI0US" target="_blank"><img height="30" src="./images/dev.png"></a>&nbsp;&nbsp;
+</p> 
+-->
+
 :bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
         
 <pre><code>  
@@ -21,24 +33,20 @@
                                                                        
 </code></pre>
 
-
+<!-- =Github=Trophies=============== -->
 
 ## &#x1f4c8; GitHub Stats 
-![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7) 
 
+<!-- =Technology & Tools============= -->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
+---------------------------
 
-----
-
-<!--
-       BLACK HISTORY MONTH
--->
-
-
+<!-- =Black History Month=============== -->
 ## Remembering those who have fallen and the inevitable to come.
 
 ### I cry for my brothers and sisters, tears of love and tears of joy. 
@@ -69,19 +77,21 @@
                                                                      </code></pre>
 
 
-
+<!-- =Github=Statistics=============== -->
 ![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=blue-green) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&theme=blue-green)
 
 
-
+<!-- =My Face!=============== -->
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
+<!-- =Morale Badges=============== -->
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <details>   
-  <summary markdown="span">Professional stuffs</summary>
+  <summary markdown="span">💼 Professional and Social Bits</summary>
   
-[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+
   
 
 </details>
