@@ -62,9 +62,11 @@ tears of love and tears of joy.<br>
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-**Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.?** I could very well be **interested in collaborating on your next Open Source Project**
+<h2>Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.?** I could very well be **interested in collaborating on your next Open Source Project
 
-...But neither of us will ever know if **YOU** don't make that first reach > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
+...But neither of us will ever know if **YOU** don't make that first reach</h2>
+
+:email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
 👾***P.s. I believe in you!***
 
@@ -76,7 +78,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ----
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) <h2 slign="right>"💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)</h3>
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) <h2 align="right>"💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)</h3>
 
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
@@ -154,13 +156,13 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 // //      █─▄▄▄─█─▄▄─█▄─▄▄▀█▄─▄▄─█▄─▄▄─█▄─▄▄─█▄─▄███▄─▄███─▄▄─█▄─█▀▀▀█─▄█─▄▄▄▄█                                                \    /
 // //      █─███▀█─██─██─██─██─▄█▀██─▄████─▄█▀██─██▀██─██▀█─██─██─█─█─█─██▄▄▄▄─█  ©️                                              \  /
 // //      ▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▄▀ 2021                                             \/
-// // -----------------------------------------------------------------------------------------------------------------------x          x---------------------FIN---------x
-
+// // -----------------------------------------------------------------------------------------------------------------------x           x---------------------FIN---------x
+                                                                                                                                 
 <!---
-                                                              SOURCE: https://www.reneeater.com/on-monuments-blog/tag/list+of+unarmed+black+people+killed+by+police
+                                                            
        RENÉE ATER
 
-IN MEMORIAM: I CAN'T BREATHE
+IN MEMORIAM: I CAN'T BREATHE                                        SOURCE: https://www.reneeater.com/on-monuments-blog/tag/list+of+unarmed+black+people+killed+by+police
 May 29, 2020
 
 I am angry. I am anguished. I am heartbroken.
