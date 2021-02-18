@@ -26,8 +26,8 @@
 [x] Community Volunteer       ✊🏾 Black = Humxn
    - The Mission Continues  
    - Team Rubicon           
-   - Team RWB               🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
-   - YouthCare              dj dancer poet singer sk8r Rock-hound
+   - Team RWB         🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
+   - YouthCare        dj dancer poet singer sk8r Rock-hound
 </pre> 
 </td></tr></table>
 
