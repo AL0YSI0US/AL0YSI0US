@@ -1,4 +1,4 @@
-<h1 align="left"> ✨ Hello there wanderer.....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><h2 align="right">my name is Aloysious [aloe-wish-iss] ✨</h3>
+<h1 align="left">✨ Hello there wanderer, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Aloysious [aloe-wish-iss] ✨</h1>
 
 ```javascript
                                       📚 In the present moment I’m studying Python @Codefellows. 
