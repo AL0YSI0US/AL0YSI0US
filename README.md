@@ -17,7 +17,7 @@
 
 <table align="center"><tr><td>
 <pre>
-        okay butLike whoAmI?                   [i'll be vague:]
+                  okay butLike whoAmI?          [i'll be vague:]
 ===============================================================
 [x] Parent                                          [x] Mentor 
 💻 Software Developer                     [x] Permissionary
