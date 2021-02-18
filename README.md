@@ -8,11 +8,11 @@
   
                  I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
-                                                                I served well over a Decade in the United States Armed Forces.
+                                                                  I served well over a Decade in the United States Armed Forces.
 
-                                                                I'm stoked to leverage the Skills from my past...
+                                                                  I'm stoked to leverage the Skills from my past...
                                                                                
-                                                                to help Fuel my Vision for my Future.
+                                                                  to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
@@ -68,15 +68,17 @@ tears of love and tears of joy.<br>
 
 👾***P.s. I believe in you!***
 
----
+----
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
+----
+
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
-Feel free to take a peek under the hood...There's no telling what you'll find!
+Feel free to take a peek under the hood...There's no telling what you might find!
 
 <!---<<pre><code>  
        
