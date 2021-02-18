@@ -1,4 +1,4 @@
-<h1 align="left">✨Hello there wanderer<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">my name is Aloysious [aloe-wish-iss]✨ </h1>
+<h1 align="left">✨Hello there wanderer, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">my name is Aloysious [aloe-wish-iss]✨ </h1>
 
 ```javascript
                                       📚 In the present moment I’m studying Python @Codefellows. 
@@ -62,7 +62,7 @@ tears of love and tears of joy.<br>
                                           ― Beverly Daniel Tatum
 ````
 
-![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) +++++++++++++++++++++++++++++++++++++++++++++++++💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 **Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.?** I could very well be **interested in collaborating on your next Open Source Project**
 
@@ -76,7 +76,9 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+
+Feel free to take a peek under the hood...There's no telling what you'll find!
 
 <!---<<pre><code>  
        
@@ -944,4 +946,6 @@ https://www.nytimes.com/interactive/2020/06/28/us/i-cant-breathe-police-arrest.h
 
 Nearly 250 Women Have Been Fatally Shot By Police Since 2015
 https://www.washingtonpost.com/graphics/2020/investigations/police-shootings-women/
+
+                                                                                                                   # B L A C K L I V E S M A T T E R    #actuallyAutistic
 ---!>
