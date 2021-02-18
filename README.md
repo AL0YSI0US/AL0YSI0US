@@ -66,7 +66,7 @@ tears of love and tears of joy.<br>
 
 ...But neither of us will ever know if YOU don't make that first reach :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
-<p align="center">👾P.s. I believe in you!</p>
+<p align="right">👾P.s. I believe in you!</p>
 
 ----
 
