@@ -1,4 +1,6 @@
-# ✨ Hello wanderer... 
+# ✨ Hello there wanderer.....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align="center">my name is Aloysious</h2><br>
+<h3 align="right">[aloe-wish-iss] ✨</h3>
 
 <pre><code>  
 <br>
@@ -14,18 +16,19 @@
 <table align="center"><tr><td>
 
 <pre>
-             okay butLike whoAmI?
-================================================================
-[x] Parent                          [x] Mentor 
-[x] Software Developer              [x] Permissionary
-[x] Army Veteran [13+ years]        [x] Humanistic
-[x] Life-long practitioner of the   [x] Autistic
-    mixed martial and aerial arts.  [x] Queer
-[x] Community Volunteer             [x] Black = Humxn
+        okay butLike whoAmI?                   [i'll be vague:]
+===============================================================
+[x] Parent                                        [x] Mentor 
+💻 Software Developer                   [x] Permissionary
+🎖️ Army Veteran [13+ years]            [x] Humanistic
+[x] Life-long practitioner of the       ♿ Autistic
+    mixed martial and aerial arts.      🌈 Queer 
+[x] Community Volunteer       ✊🏾 Black = Humxn
    - The Mission Continues  
    - Team Rubicon           
-   - Team RWB 
-</pre>
+   - Team RWB               🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
+   - YouthCare              dj dancer poet singer sk8r Rock-hound
+</pre> 
 </td></tr></table>
 
 <pre><code>
