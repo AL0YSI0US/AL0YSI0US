@@ -1,13 +1,12 @@
 <h1 align="left"> ✨ Hello there wanderer.....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><h2 align="center">my name is Aloysious</h2><h3 align="right">[aloe-wish-iss] ✨</h3>
 <pre><code>  
 <br>
-         📚 In the present moment I’m studying Python @Codefellows. 
+                      📚 In the present moment I’m studying Python @Codefellows. 
   
 
-         My special interests are: Equality, Equity, Accountability and Activism,
-
-  I have deep desires to bring said energy with me as I transition into the tech industry.<br>
-
+                 My special interests are: Equality, Equity, Accountability and Activism,
+ 
+              I have deep desires to bring said energy with me as I transition into the tech industry.<br>
 </code></pre>
 
 <table align="center"><tr><td>
