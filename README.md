@@ -13,12 +13,12 @@
 <pre>
         okay butLike whoAmI?                   [i'll be vague:]
 ===============================================================
-[x] Parent                                        [x] Mentor 
-💻 Software Developer                   [x] Permissionary
-🎖️ Army Veteran [13+ years]            [x] Humanistic
-[x] Life-long practitioner of the       ♿ Autistic
-    mixed martial and aerial arts.      🌈 Queer 
-[x] Community Volunteer       ✊🏾 Black = Humxn
+[x] Parent                                          [x] Mentor 
+💻 Software Developer                     [x] Permissionary
+🎖️ Army Veteran [13+ years]              [x] Humanistic
+[x] Life-long practitioner of the         ♿ Autistic
+    mixed martial and aerial arts.        🌈 Queer 
+[x] Community Volunteer         ✊🏾 Black = Humxn
     - The Mission Continues  
     - Team Rubicon           
     - Team RWB          🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
