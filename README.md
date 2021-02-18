@@ -140,12 +140,12 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 
-<details>
+<!---<details>
   <summary markdown="span">:space_invader:</summary>
 
-To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: [Text to display](link){:target="_blank"}
+<!---To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: [Text to display](link){:target="_blank"}
 
-| Default aligned | Left aligned | Center aligned  | Right aligned  |
+<!---<| Default aligned | Left aligned | Center aligned  | Right aligned  |
 |-----------------|:-------------|:---------------:|---------------:|
 | First body part | Second cell  | Third cell      | fourth cell    |
 | Second line     | foo          | **strong**      | baz            |
@@ -156,7 +156,6 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 |-----------------+--------------+-----------------+----------------|
 | Third body      |              |                 | Foo            |
 {: .custom-class #custom-id}
-
 - 😄 Pronouns: ... <they></them>  ;)
 - 💬 💯 🤣 📈 ⚡ 🔘 🚶🏿‍♂️ 🚀 🕺 📫 🚧 🎨 ✨ ‼️ ✉️  🌟 🔧 💼 💻 ⚠️
 
@@ -168,7 +167,7 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 <a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
 </p> Thanks Hexx for pointing me towards icons8 I really like these > |||| bars under your github profile picture! 💯
 -->  
-<pre><code>  
+<!---<<pre><code>  
                                               
 
 
@@ -181,5 +180,5 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 
                  
                                                                        
-</code></pre>
+<!---<</code></pre>
 
