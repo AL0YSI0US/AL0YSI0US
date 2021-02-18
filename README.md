@@ -10,7 +10,6 @@
 </code></pre>
 
 <table align="center"><tr><td>
-
 <pre>
         okay butLike whoAmI?                   [i'll be vague:]
 ===============================================================
@@ -26,11 +25,14 @@
     - YouthCare         dj dancer poet singer sk8r Rock-hound
 </pre> 
 </td></tr></table>
+
 <pre><code>
                            I served over a decade in the US Armed forces,
 
          I'm stoked to leverage the skills from my past, to help fuel the vision for my future.
- </code></pre>
+         
+</code></pre>
+ 
 <br>
 <figure><embed src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/946e2fac-6cf6-4830-828d-23a3c9bc6076.svg"></embed></figure>
 <section id="blackHistoryMonth">
