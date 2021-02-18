@@ -6,7 +6,7 @@
 
                                   My special interests are: Equality, Equity, Accountability and Activism,
   
-                            I have deep desires to bring said energy with me as I transition into the tech industry.
+                            I have deep desires to bring said energy with me as I Transition into the tech industry.
 ````
 
 <table align="center"><tr><td>
@@ -26,12 +26,13 @@
 </pre> 
 </td></tr></table>
 
-<pre><code>
-                           I served over a decade in the US Armed forces,
+```javascript
+                                       I served well over a Decade in the United States Armed Forces.
 
-         I'm stoked to leverage the skills from my past, to help fuel the vision for my future.
+                           I'm stoked to leverage the Skills from my past...
+                                                                            to help Fuel my Vision for my Future.
          
-</code></pre>
+````
  
 <br>
 <figure><embed src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/946e2fac-6cf6-4830-828d-23a3c9bc6076.svg"></embed></figure>
@@ -43,10 +44,11 @@ and the inevitable to come<br>...<br>
 tears of love and tears of joy.<br>
 #BlackLivesMatter</h2>
 <a href="https://caplanc.org"><img src="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg" /></a>
-<pre><code>
-        I am celebrating us all.
 
-                                   “We all have a sphere of influence. 
+````python
+                  I am celebrating us all.
+
+                                             “We all have a sphere of influence. 
                                     Each of us needs to find our own sources of courage 
                                     so that we can begin to speak. 
                                     There are many problems to address, 
@@ -59,10 +61,7 @@ tears of love and tears of joy.<br>
                                     Change is possible.”
 
                                           ― Beverly Daniel Tatum
-   
-</code></pre>
-
-</section>
+````
 
 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)>>>>>>>>> ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<<<<<<<<<<<
 
@@ -78,7 +77,7 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) <details>
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)
 
 <!---<<pre><code>  
        
@@ -153,10 +152,4 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 // //      █─▄▄▄─█─▄▄─█▄─▄▄▀█▄─▄▄─█▄─▄▄─█▄─▄▄─█▄─▄███▄─▄███─▄▄─█▄─█▀▀▀█─▄█─▄▄▄▄█
 // //      █─███▀█─██─██─██─██─▄█▀██─▄████─▄█▀██─██▀██─██▀█─██─██─█─█─█─██▄▄▄▄─█
 // //      ▀▄▄▄▄▄▀▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀▄▄▄▀▄▄▄▀▀▄▄▄▄▄▀ 
-
-               
-
-               
-                                                                     
-<!---<</code></pre>
-
+// // -----------------------------------------------------------------------------------------------------------------------------------------------------FIN---------x
