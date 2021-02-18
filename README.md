@@ -32,8 +32,14 @@
         <h3 align="center"> 📈 GitHub Stats 
                 <p align="center"> 
 <hr /> 
-                
-![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7) 
+ 
+ 
+<p align="center"> 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
+ 
+ 
+ <p align="center"> 
+<a href="https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7> 
 
 <section id="technologyAndTools">
         <h3 align="center"> 💻 Technology & Tools 🛠️
@@ -41,7 +47,9 @@
                         
 <hr />                    
                         
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
 
@@ -71,20 +79,20 @@
                                                                      </code></pre>
 
 </section>
-<!-- =Github=Statistics=============== -->
+<!-- =====Github=Statistics=============== -->
 
 ![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=blue-green) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&theme=blue-green)
 
-<!-- =waka time languages=============== -->
+<!-- =====waka time languages=============== -->
 <p align="center"> 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
 
-<!-- =My Face!=============== -->
+<!-- =====My Face!=============== -->
 <img align="center"> 
 
-<img href="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true"><img src="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true" /></a>
+<a href="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true"><img src="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true" /></a>
 
-<!-- =Morale Badges=============== -->
+<!-- =====Morale Badges=============== -->
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
