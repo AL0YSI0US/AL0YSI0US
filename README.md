@@ -24,10 +24,10 @@
 [x] Life-long practitioner of the       ♿ Autistic
     mixed martial and aerial arts.      🌈 Queer 
 [x] Community Volunteer       ✊🏾 Black = Humxn
-   - The Mission Continues  
-   - Team Rubicon           
-   - Team RWB         🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
-   - YouthCare        dj dancer poet singer sk8r Rock-hound
+    - The Mission Continues  
+    - Team Rubicon           
+    - Team RWB          🎼   🕺    🗣️   🎤    🛹   ⚒️💎⛏️
+    - YouthCare         dj dancer poet singer sk8r Rock-hound
 </pre> 
 </td></tr></table>
 
