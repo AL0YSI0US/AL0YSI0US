@@ -3,11 +3,10 @@
 
 <!--
 <p align="center">                           [Will need Images in order to render]
-<a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/notReal/" target="_blank"><img height="30" src="./images/facebook.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
 <a href="mailto:aloysiousx@gmail.com" target="_blank"><img height="30" src="./images/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/AL0YSI0US" target="_blank"><img height="30" src="./images/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
+
 </p> 
 -->
 
@@ -33,29 +32,27 @@
                                                                        
 </code></pre>
 
-<!-- =Github=Trophies=============== -->
-
-## &#x1f4c8; GitHub Stats 
+<section id="githubStats">
+        <h3 align="center"> 📈 GitHub Stats 
+                <p align="center"> 
+                        
 ![trophy](https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7) 
 
-<!-- =Technology & Tools============= -->
+<section id="technologyAndTools">
+        <h3 align="center"> 💻 Technology & Tools 🛠️
+                <p align="center"> 
 
-## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
- ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
+ ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) [![Open Source Helpers](https://www.codetriage.com/microsoft/vscode/badges/users.svg)](https://www.codetriage.com/microsoft/vscode)
+
 ---------------------------
 
-<!-- =Black History Month=============== -->
-## Remembering those who have fallen and the inevitable to come.
-
-### I cry for my brothers and sisters, tears of love and tears of joy. 
-                        
-
-
-
-![BHM](https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg)
-
+<section id="blackHistoryMonth">
+        <h3 align="center">Remembering those who have fallen and the inevitable to come.</h3>
+        <h4 align="center">I cry for my brothers and sisters, tears of love and tears of joy.</h4> 
+        <img align="center" id="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg">
+                <p align="center"> 
 
 <pre><code>  
         I am celebrating us all.
@@ -76,15 +73,21 @@
                                                                      
                                                                      </code></pre>
 
-
+</section>
 <!-- =Github=Statistics=============== -->
+
 ![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=blue-green) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&theme=blue-green)
 
+<!-- =waka time languages=============== -->
+<p align="center"> 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
 
 <!-- =My Face!=============== -->
+<p align="center"> 
 ![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
 
 <!-- =Morale Badges=============== -->
+
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
 <details>   
@@ -107,36 +110,14 @@ This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.c
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000)
 
 
 
-
-
-
-
 <!--
-**AL0YSI0US/AL0YSI0US** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨AL0YSI0US/AL0YSI0US is_special_✨
 
-![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=cobalt=Follow&maxAge=2592000)
+
 
 <details>
   <summary markdown="span">:space_invader:</summary>
@@ -155,13 +136,8 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 | Third body      |              |                 | Foo            |
 {: .custom-class #custom-id}
 
-- 🔭 I’m currently working on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 😄 Pronouns: ... <they></them>  ;)
+- 💬 💯 🤣 📈 ⚡ 🔘 🚶🏿‍♂️ 🚀 🕺 📫 🚧 🎨 ✨ ‼️ ✉️  🌟 🔧 💼 💻 ⚠️
 
 
 
