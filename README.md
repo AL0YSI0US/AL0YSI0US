@@ -1,12 +1,18 @@
 <h1 align="left">✨Hello there wanderer, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">my name is Aloysious [aloe-wish-iss]✨ </h1>
 
 ```javascript
-                                      📚 In the present moment I’m studying Python @Codefellows. 
+          📚 In the present moment I’m studying Python @Codefellows. 
   
 
-                                  My special interests are: Equality, Equity, Accountability and Activism,
+                     My Top Special Interests are: Equality, Equity, Accountability and Activism,
   
-                            I have deep desires to bring said energy with me as I Transition into the tech industry.
+                            I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
+                            
+                                                                                I served well over a Decade in the United States Armed Forces.
+
+                                                                                I'm stoked to leverage the Skills from my past...
+                                                                               
+                                                                                to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
@@ -26,14 +32,6 @@
 </pre> 
 </td></tr></table>
 
-```javascript
-                                       I served well over a Decade in the United States Armed Forces.
-
-                           I'm stoked to leverage the Skills from my past...
-                                                                            to help Fuel my Vision for my Future.
-         
-````
- 
 <figure><embed src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/946e2fac-6cf6-4830-828d-23a3c9bc6076.svg"></embed></figure>
 <section id="blackHistoryMonth">
 <p align="center"> 
