@@ -1,7 +1,4 @@
-# ✨ Hello there wanderer.....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align="center">my name is Aloysious</h2><br>
-<h3 align="right">[aloe-wish-iss] ✨</h3>
-
+<h1 align="left"> ✨ Hello there wanderer.....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><h2 align="center">my name is Aloysious</h2><h3 align="right">[aloe-wish-iss] ✨</h3>
 <pre><code>  
 <br>
          📚 In the present moment I’m studying Python @Codefellows. 
@@ -30,7 +27,6 @@
     - YouthCare         dj dancer poet singer sk8r Rock-hound
 </pre> 
 </td></tr></table>
-
 <pre><code>
                            I served over a decade in the US Armed forces,
 
