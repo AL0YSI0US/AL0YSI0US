@@ -46,16 +46,16 @@ tears of love and tears of joy.<br>
                                               I am celebrating us all.
 
                                                               “We all have a sphere of influence. 
-                                                                  Each of us needs to find our own sources of courage 
+     You were created for                                         Each of us needs to find our own sources of courage 
                                                                   so that we can begin to speak. 
-                                                                  There are many problems to address, 
+        rare occasions                                            There are many problems to address, 
                                                                   and we cannot avoid them indefinitely. 
-                                                                  We cannot continue to be silent. 
-                                                                  We must begin to speak, 
+           change                                                 We cannot continue to be silent. 
+          disappear                                               We must begin to speak, 
                                                                   knowing that words alone are insufficient. 
-                                                                  But I have seen that meaningful dialogue 
+        without regret.                                           But I have seen that meaningful dialogue 
                                                                   can lead to effective action. 
-                                                                  Change is possible.”
+-My Grandpa - aka Ronny Wayne Davies                              Change is possible.”
 
                                                                                                 ― Beverly Daniel Tatum
 ````
