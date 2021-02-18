@@ -27,7 +27,7 @@
                                                  Remember to 🌟star🌟this repo so others can find it too! 👀  
                                                                        
 </code></pre>
-
+<!--
 <section id="githubStats">
         <h3 align="center"> 📈 GitHub Stats 
                 <p align="center"> 
@@ -36,16 +36,32 @@
  
 <p align="center"> 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
+          
  
- 
- <p align="center"> 
+<p align="center"> 
 <a href="https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7> 
 
-<section id="technologyAndTools">
+<!--<section id="technologyAndTools">
         <h3 align="center"> 💻 Technology & Tools 🛠️
                 <p align="center"> <br>
+                                         
                         
-<hr />                    
+<!--<table><tbody align="center"><tbody align="right"><tr><td>
+<pre>
+🚧      Whats going on in here?    🚧<br>
+---------------------------------------------------------------
+<br> 
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+[ ] 
+</pre>
+</td></tr></table>
+                        
                         
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) 
 
@@ -56,7 +72,7 @@
 <section id="blackHistoryMonth">
         <h3 align="center">Remembering those who have fallen and the inevitable to come.</h3>
         <h4 align="center">I cry for my brothers and sisters, tears of love and tears of joy.</h4> 
-        <img align="center" id="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg">
+        <img href="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg" align="center" id="blackLivesMatter" /></a>
                 <p align="center"> 
 
 <pre><code>  
