@@ -62,7 +62,7 @@ tears of love and tears of joy.<br>
                                           ― Beverly Daniel Tatum
 ````
 
-💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
+![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg) +++++++++++++++++++++++++++++++++++++++++++++++++💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
 **Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.?** I could very well be **interested in collaborating on your next Open Source Project**
 
