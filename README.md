@@ -45,15 +45,15 @@ tears of love and tears of joy.<br>
 ````python
                                               I am celebrating us all.
 
-                                                              “We all have a sphere of influence. 
-     You were created for                                         Each of us needs to find our own sources of courage 
+                                                          “We all have a sphere of influence. 
+          You were created for                                    Each of us needs to find our own sources of courage 
                                                                   so that we can begin to speak. 
-        rare occasions                                            There are many problems to address, 
+                rare occasions                                    There are many problems to address, 
                                                                   and we cannot avoid them indefinitely. 
-           change                                                 We cannot continue to be silent. 
-          disappear                                               We must begin to speak, 
+          change                                                  We cannot continue to be silent. 
+                     disappear                                    We must begin to speak, 
                                                                   knowing that words alone are insufficient. 
-        without regret.                                           But I have seen that meaningful dialogue 
+               without regret.                                    But I have seen that meaningful dialogue 
                                                                   can lead to effective action. 
 -My Grandpa - aka Ronny Wayne Davies                              Change is possible.”
 
