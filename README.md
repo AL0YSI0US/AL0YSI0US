@@ -1,41 +1,54 @@
-<!--✨AL0YSI0US/AL0YSI0US is_special_✨--!> 
+# ✨ Hello wanderer... 
 
-<h1 align="center">✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss] ✨</h1>
-
-       
 <pre><code>  
-                                              
-    📚 In the present moment I’m studying Python @Codefellows. 
-    
+<br>
+         📚 In the present moment I’m studying Python @Codefellows. 
+  
 
-                        I have a passion for Equality, Equity, Accountability and Activism,
+         My special interests are: Equality, Equity, Accountability and Activism,
 
-                      and the desire to bring said energy with me and into the tech industry.
+  I have deep desires to bring said energy with me as I transition into the tech industry.<br>
 
-     whoAmI? : Parent . Community Volunteer . Mentor . Permissionary . Humanistic . Autistic . Queer . Black = Humxn
-
-                                  I served over a decade in the US Armed forces,
-
-                      I'll be leveraging skills from my past, to fuel my vision for the future.
-                
-
-                                              Remember to 🌟star🌟this repo so others can find it too! 👀  
-                                                                       
 </code></pre>
- 
- <p align="center"> 
-<a href="https://github-profile-trophy.vercel.app/?username=AL0YSI0US&theme=cobalt=row=1&column=7" /></a>
 
+<table align="center"><tr><td>
 
+<pre>
+             okay butLike whoAmI?
+================================================================
+[x] Parent                          [x] Mentor 
+[x] Software Developer              [x] Permissionary
+[x] Army Veteran [13+ years]        [x] Humanistic
+[x] Life-long practitioner of the   [x] Autistic
+    mixed martial and aerial arts.  [x] Queer
+[x] Community Volunteer             [x] Black = Humxn
+   - The Mission Continues  
+   - Team Rubicon           
+   - Team RWB 
+</pre>
+</td></tr></table>
+
+<pre><code>
+                        I served over a decade in the US Armed forces,
+
+          I'm stoked to leverage the skills from my past, to help fuel the vision for my future.
+  
+</code></pre>
+
+<br>
+
+<figure><embed src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/946e2fac-6cf6-4830-828d-23a3c9bc6076.svg"></embed></figure>
 
 <section id="blackHistoryMonth">
-        <h3 align="center">Remembering those who have fallen and the inevitable to come.</h3>
-        <h4 align="center">I cry for my brothers and sisters, tears of love and tears of joy.</h4> 
-   
 <p align="center"> 
-<a href="https://caplanc.org"><img src="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg" /></a> 
-       
+<h2 align="center">Remembering those who have fallen,<br> 
+and the inevitable to come<br>...<br>
+<br>I cry for my brothers and sisters,<br> 
+tears of love and tears of joy.<br>
+#BlackLivesMatter</h2>
+<a href="https://caplanc.org"><img src="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg" /></a>
 
+<pre><code>
         I am celebrating us all.
 
                                    “We all have a sphere of influence. 
@@ -51,54 +64,27 @@
                                     Change is possible.”
 
                                           ― Beverly Daniel Tatum
-                                                                     
-                                                                     </code></pre>
+   
+</code></pre>
 
 </section>
-<!-- =====Github=Statistics=============== -->
 
-![AL0YSI0US's github stats](https://github-readme-stats.vercel.app/api?username=AL0YSI0US&theme=blue-green) ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&theme=blue-green)
+💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)>>>>>>>>> ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<<<<<<<<<<<
 
-<!-- =====waka time languages=============== -->
-<p align="center"> 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
+**Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.?** I could very well be **interested in collaborating on your next Open Source Project**
 
-<!-- =====My Face!=============== -->
+...But neither of us will ever know if **YOU** don't make that first reach > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
-<!--<a align="center "href="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true"<img src="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true" /></a>
+👾***P.s. I believe in you!***
 
-<!-- =====Morale Badges=============== -->
-
-![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-
+---
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
 This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
 
-![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) <details>   
-  <summary markdown="span">💼 Professional Bits</summary>
-  
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) <details>
 
-
-💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
-:bangbang: I’m currently looking to collaborate on Open Source Projects > :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
-  
-
-</details>
-
-
-
-
-
-
-
-
-<!---<details>
-  <summary markdown="span">:space_invader:</summary>
 
 <!---To make an inline link open in a new tab, you can add {:target="_blank"} to the end. Ex: [Text to display](link){:target="_blank"}
 
@@ -119,23 +105,23 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 <!-- =Email /Social Media============= Icons8 <<add to theNuanceGuide
 <p align="center">                           [Will need Images in order to render]
-<a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
-<a href="mailto:aloysiousx@gmail.com" target="_blank"><img height="30" src="./images/gmail.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="findapngfile"></a>  
+<a href="mailto:aloysiousx@gmail.com" target="_blank"><img height="30" src="./images/gmail.png"></a>  
+<a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="findapngfile"></a>  
 </p> Thanks Hexx for pointing me towards icons8 I really like these > |||| bars under your github profile picture! 💯
--->  
+-->
+
 <!---<<pre><code>  
-                                              
+                                            
 
 
+                    
                       
-                        
                                                          EDIT CODE HERE
 
 
-                
+              
 
-                 
-                                                                       
+               
+                                                                     
 <!---<</code></pre>
-
