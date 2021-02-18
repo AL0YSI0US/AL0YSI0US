@@ -76,7 +76,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 ----
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) <h2 align="right>"💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)</h3>
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
