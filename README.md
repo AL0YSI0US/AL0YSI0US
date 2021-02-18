@@ -1,4 +1,4 @@
-<h1 align="left">✨Hello there wanderer, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Aloysious [aloe-wish-iss] ✨</h1>
+<h1 align="left">✨Hello there wanderer,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">my name is Aloysious [aloe-wish-iss]✨ </h1>
 
 ```javascript
                                       📚 In the present moment I’m studying Python @Codefellows. 
@@ -62,7 +62,7 @@ tears of love and tears of joy.<br>
                                           ― Beverly Daniel Tatum
 ````
 
-💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)>>>>>>>>> ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<<<<<<<<<<<
+💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)>>>>>>>>>>>> ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)<<<<<<<<<<<<<<
 
 **Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.?** I could very well be **interested in collaborating on your next Open Source Project**
 
