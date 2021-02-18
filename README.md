@@ -64,9 +64,8 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
 
 <!-- =====My Face!=============== -->
-<img align="center"> 
 
-<a href="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true"><img src="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true" /></a>
+<!--<a align="center "href="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true"<img src="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true" /></a>
 
 <!-- =====Morale Badges=============== -->
 
