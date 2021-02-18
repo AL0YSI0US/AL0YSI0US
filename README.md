@@ -62,11 +62,11 @@ tears of love and tears of joy.<br>
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
-<h2>Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.? I could very well be **interested in collaborating on your next Open Source Project</h2>
+<h2>Are you creating something structured around ethical coding: community: neurodiversity: equality: accessibility etc.? I could very well be interested in collaborating on your next Open Source Project</h2>
 
 ...But neither of us will ever know if YOU don't make that first reach :email: [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) :email:
 
-<p align="center">👾***P.s. I believe in you!***</p>
+<p align="center">👾P.s. I believe in you!</p>
 
 ----
 
