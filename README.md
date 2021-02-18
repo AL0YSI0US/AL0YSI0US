@@ -1,3 +1,5 @@
+                                                    <!--✨AL0YSI0US/AL0YSI0US is_special_✨---!> 
+
 <h1 align="center">✨ Hello wanderer....<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">....my name is Aloysious [aloe-wish-iss] ✨</h1>
 <p align="center">                        
 <a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="/images/linkedin.png"></a>&nbsp;&nbsp;
@@ -75,8 +77,9 @@
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/2b93bc94-df44-4b73-b265-0e11427c6740.png" /></a>
 
 <!-- =My Face!=============== -->
-<p align="center"> 
-![myFace](https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true)
+<img align="center"> 
+
+<img href="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true"><img src="https://github.com/AL0YSI0US/about-me/raw/main/img/aloysiousAltered.JPG?raw=true" /></a>
 
 <!-- =Morale Badges=============== -->
 
@@ -104,8 +107,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 
-<!--
-✨AL0YSI0US/AL0YSI0US is_special_✨
+
 
 
 
@@ -135,24 +137,20 @@ To make an inline link open in a new tab, you can add {:target="_blank"} to the 
 <a href="https://www.linkedin.com/in/charlie-mike/" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
 <a href="mailto:aloysiousx@gmail.com" target="_blank"><img height="30" src="./images/gmail.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/AL0YSI0US" target="_blank"><img height="30" src="findapngfile"></a>&nbsp;&nbsp;
-</p> 
--->  Thanks Hexx for pointing me towards icons8 I really like these > |||| bars under your github profile picture! 💯
-
-
+</p> Thanks Hexx for pointing me towards icons8 I really like these > |||| bars under your github profile picture! 💯
+-->  
 <pre><code>  
                                               
 
 
-
-                           EDIT CODE HERE
-
-
+                      
+                        
+                                                         EDIT CODE HERE
 
 
                 
 
-                            Remember to 🌟star🌟this repo so others can find it too! 👀  
+                 
                                                                        
 </code></pre>
 
--->
