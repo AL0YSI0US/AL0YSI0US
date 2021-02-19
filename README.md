@@ -953,48 +953,5 @@ https://www.washingtonpost.com/graphics/2020/investigations/police-shootings-wom
 
 
 
-```javascript
-const Aloysious= {
 
-    pronouns: "They" | "Them",
-
-    code: ["Javascript", "Python", "Java", "HTML5", "CSS", "Markdown", "CommonMark", "Ruby", "SQL"],
-
-    askMeAbout: ["tech", "coded bias", "photography", "consent", "neurodiversity", "codefellows", "the mission continues"],
-
-    technologies: {
-
-        mobileApp: ["Android App"],
-
-        frontEnd: {
-
-            js: ["Vue", "Nuxt"],
-
-            css: ["materialize", "vuetify", "bootstrap"]
-
-        },
-
-        backEnd: {
-
-            js: ["node", "express", "SuiteScript"],
-
-            python: ["flask"]
-
-        },
-
-        devOps: ["AWS", "Route53", "Nginx", "Docker🐳"],
-
-        databases: ["mongo", "MySql", "sqlite"],
-
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-
-    },
-
-    architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Ppplications"],
-
-    currentFocus: "the relationship between behavior and enviornment",
-
-    funFact: "I was once a sponsored skater, No I will not do a kickflip to prove that "chicks" can skate...I will do a sex-change with a 180-360 degree variable depending on my mood. Give me twenty bucks and I'll do it with my eyes closed. -love always, a healthy ego."
-
-};
 ---!>
