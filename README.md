@@ -4,15 +4,15 @@
 📚 In the present moment I’m studying Python @Codefellows. 
   
 
-      My Top Special Interests are: Equality, Equity, Accountability and Activism,
+   My Top Special Interests are: Equality, Equity, Accountability and Activism,
   
-             I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
+          I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
-                                                              I served well over a Decade in the United States Armed Forces.
+                                                           I served well over a Decade in the United States Armed Forces.
                                                               
-                                                              I'm stoked to leverage the Skills from my past...
+                                                           I'm stoked to leverage the Skills from my past...
                                                                                
-                                                              to help Fuel my Vision for my Future.
+                                                           to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
@@ -46,12 +46,12 @@ tears of love and tears of joy.<br>
                                               I am celebrating us all.
 
                                                           “We all have a sphere of influence. 
-          You were created for                                    Each of us needs to find our own sources of courage 
-                                                                  so that we can begin to speak. 
+            You were created for                                  Each of us needs to find our own sources of  
+                                                                  courage so that we can begin to speak. 
                 rare occasions                                    There are many problems to address, 
                                                                   and we cannot avoid them indefinitely. 
-          change                                                  We cannot continue to be silent. 
-                     disappear                                    We must begin to speak, 
+                change                                            We cannot continue to be silent. 
+                    disappear                                     We must begin to speak, 
                                                                   knowing that words alone are insufficient. 
                without regret.                                    But I have seen that meaningful dialogue 
                                                                   can lead to effective action. 
