@@ -80,7 +80,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
-💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+## 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
 
 
