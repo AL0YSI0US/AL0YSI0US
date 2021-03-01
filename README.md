@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello there wanderer, <br>
-My name is Aloysious<br>✨[aloe-wish-iss]✨ </h1>
+My name is Aloysious<br></h1>
+<h3 align="center">✨[aloe-wish-iss]✨</h3>
 
 ```bash
 📚 In the present moment I’m studying Python @Codefellows. 
