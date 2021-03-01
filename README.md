@@ -9,11 +9,11 @@
   
           I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
-                                                           I served well over a Decade in the United States Armed Forces.
+                                            I served well over a Decade in the United States Armed Forces.
                                                               
-                                                           I'm stoked to leverage the Skills from my past...
+                                            I'm stoked to leverage the Skills from my past...
                                                                                
-                                                           to help Fuel my Vision for my Future.
+                                            to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
