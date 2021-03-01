@@ -1,4 +1,5 @@
-<h1 align="left">✨Hello there wanderer, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">My name is Aloysious [aloe-wish-iss]✨ </h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hello there wanderer, <br>
+My name is Aloysious<br>✨[aloe-wish-iss]✨ </h1>
 
 ```bash
 📚 In the present moment I’m studying Python @Codefellows. 
@@ -78,10 +79,12 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) ![Profile views](https://gpvc.arturio.dev/AL0YSI0US) ![GitHub followers](https://img.shields.io/github/followers/AL0YSI0US.svg?style=social&label=Follow&maxAge=2592000) 
 
+<p align="right">
+<img src="https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/155019159_4151772171502506_6832162630326696727_n.jpg?_nc_cat=110&ccb=3&_nc_sid=730e14&_nc_ohc=lA_tHYPFMLUAX_cjH4z&_nc_ht=scontent-sea1-1.xx&oh=c90d170d8cc0d7ac9329a849cb41a1c1&oe=60646043" height="160px" width="320px">
+</p>
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
 ## 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
-
 
 
 <!---<<pre><code>  
