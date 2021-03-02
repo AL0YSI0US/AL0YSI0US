@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <h1 align="left">Hello there wanderer, . . .</h1>  <p align="center">. . . my name is Aloysious :✨[aloe-wish-iss]✨</h5>
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1 align="left">Hello there wanderer, . . .</h1>  <p align="center">. . . my name is Aloysious :✨[aloe-wish-iss]✨</h5>
 
 
 ```bash
@@ -33,15 +33,7 @@
 </pre> 
 </td></tr></table>
 
-<figure><embed src="https://wakatime.com/share/@96a2f4d4-834f-47cd-a8b3-a8acae05f335/946e2fac-6cf6-4830-828d-23a3c9bc6076.svg"></embed></figure>
-<section id="blackHistoryMonth">
-<p align="center"> 
-<h2 align="center">Remembering those who have fallen,<br> 
-and the inevitable to come<br>...<br>
-<br>I cry for my brothers and sisters,<br> 
-tears of love and tears of joy.<br>
-<br>#BlackLivesMatter</h2>
-<a href="https://caplanc.org"><img src="https://caplanc.org/wp-content/uploads/2021/02/BHM.jpg" /></a>
+[![Aloysious's github activity graph](https://activity-graph.herokuapp.com/graph?username=AL0YSI0US&theme=redical)](https://github.com/AL0YSI0US/github-readme-activity-graph)
 
 ````python
                                               I am celebrating us all.
