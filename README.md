@@ -33,7 +33,6 @@
 </pre> 
 </td></tr></table>
 
-[![Aloysious's github activity graph](https://activity-graph.herokuapp.com/graph?username=AL0YSI0US&theme=redical)](https://github.com/AL0YSI0US/github-readme-activity-graph)
 
 ````python
                                               I am celebrating us all.
@@ -52,6 +51,8 @@
 
                                                                                                 ― Beverly Daniel Tatum
 ````
+
+[![Aloysious's github activity graph](https://activity-graph.herokuapp.com/graph?username=AL0YSI0US&theme=redical)](https://github.com/AL0YSI0US/github-readme-activity-graph)
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
