@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><h1 align="left">Hello there wanderer, . . .</h1>  <p align="center">. . . my name is Aloysious :✨[aloe-wish-iss]✨</h5>
+<h1 align="left">Hello there wanderer, . . .</h1>
+<h5 align="center">. . . my name is Aloysious :✨[aloe-wish-iss]✨</h5>
 
 
 ```bash
@@ -7,13 +8,13 @@
 
    My Top Special Interests are: Equality, Equity, Accountability and Activism,
   
-          I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
+         I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
-                                            I served well over a Decade in the United States Armed Forces.
+                                          I served well over a Decade in the United States Armed Forces.
                                                               
-                                            I'm stoked to leverage the Skills from my past...
+                                          I'm stoked to leverage the Skills from my past...
                                                                                
-                                            to help Fuel my Vision for my Future.
+                                          to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
@@ -35,24 +36,26 @@
 
 
 ````python
-                                              I am celebrating us all.
+                                            I am celebrating us all.
 
-                                                          “We all have a sphere of influence. 
-            You were created for                                  Each of us needs to find our own sources of  
-                                                                  courage so that we can begin to speak. 
-                rare occasions                                    There are many problems to address, 
-                                                                  and we cannot avoid them indefinitely. 
-                change                                            We cannot continue to be silent. 
-                    disappear                                     We must begin to speak, 
-                                                                  knowing that words alone are insufficient. 
-               without regret.                                    But I have seen that meaningful dialogue 
-                                                                  can lead to effective action. 
--My Grandpa - aka Ronny Wayne Davies                              Change is possible.”
+                                                        “We all have a sphere of influence. 
+            You were created for                                Each of us needs to find our own sources of  
+                                                                courage so that we can begin to speak. 
+                rare occasions                                  There are many problems to address, 
+                                                                and we cannot avoid them indefinitely. 
+                change                                          We cannot continue to be silent. 
+                    disappear                                   We must begin to speak, 
+                                                                knowing that words alone are insufficient. 
+               without regret.                                  But I have seen that meaningful dialogue 
+                                                                can lead to effective action. 
+-My Grandpa - aka Ronny Wayne Davies                            Change is possible.”
 
-                                                                                                ― Beverly Daniel Tatum
+                                                                                          ― Beverly Daniel Tatum
 ````
 
 [![Aloysious's github activity graph](https://activity-graph.herokuapp.com/graph?username=AL0YSI0US&theme=redical)](https://github.com/AL0YSI0US/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&layout=compact&theme=midnight-purple&card_width=960)](https://github.com/AL0YSI0US/github-readme-stats)
 
 ![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 
@@ -77,7 +80,8 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 </p>
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
-## 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+## 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/) | 💻 [CodePen io](https://codepen.io/al0ysi0us) | 📷 [Instagram](https://www.instagram.com/aloysiousx/?hl=en) | ✏️ [Medium](https://medium.com/@AL0YSIOUS)  
+
 
 
 <!---<<pre><code>  
