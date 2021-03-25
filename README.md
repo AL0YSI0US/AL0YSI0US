@@ -6,7 +6,7 @@
 📚 In the present moment I’m studying Python @Codefellows. 
   
 
-   My Top Special Interests are: Equality, Equity, Accountability and Activism,
+   My Top Special Interests are: Equality, Equity, Accountability and Activism.
   
          I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
