@@ -77,8 +77,6 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 
 
 <p align="right">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=124637890&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
 </p>
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
