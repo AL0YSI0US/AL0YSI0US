@@ -189,15 +189,27 @@ and a complete disdain for black life. White supremacy has no place in the crimi
                                                     — Henry Dumas (poet, social activist, teacher)
 
 
-Updated January 22, 2021                                               
+Updated April 15, 2021
+
+Daunte Demetrius Wright, October 27, 2000 - April 11, 2021
+Brooklyn Center, Minnesota
+Shot: Brooklyn Center Police Officer, April 11, 2021
+
+Marvin David Scott III, 1995 - March 14, 2021
+McKinney, Texas
+Peppered sprayed/Restrained with spit hood/Asphyxiated: 7 Collin County Jail Detention Officers, March 14, 2021
+
+Patrick Lynn Warren Sr., October 7, 1968 - January 10, 2021
+Killeen, Texas
+Shot: Killeen Police Officer, January 10, 2021
 
 Vincent “Vinny” M. Belmonte, September 14, 2001 - January 5, 2021
 Cleveland, Ohio
 Shot: Cleveland Police Officer, January 5, 20201
 
-Patrick Lynn Warren Sr., October 7, 1968 - January 10, 2021
-Killeen, Texas
-Shot: Killeen Police Officer, January 10, 2021
+Angelo Quinto, March 10, 1990 - December 26, 2020
+Antioch, California
+Knee on neck/Asphyxiated: December 23, 2020
 
 Andre Maurice Hill, May 23, 1973 - December 22, 2020
 Columbus, Ohio
@@ -878,6 +890,8 @@ At the age of twenty-four, a friend introduced me to the radical and astonishing
 
 — Renée Ater, May 29, 2020
 
+
+
 **Many thanks to Cecilia Wichmann and Mary Savig for their fact checking of this list, including adding birth dates from the Social Security Death Index and links to additional news stories. 
 
 *************************************************
@@ -949,7 +963,7 @@ Three Words. 70 Cases. The Tragic History of ‘I Can’t Breathe.’
 https://www.nytimes.com/interactive/2020/06/28/us/i-cant-breathe-police-arrest.html
 
 Nearly 250 Women Have Been Fatally Shot By Police Since 2015
-https://www.washingtonpost.com/graphics/2020/investigations/police-shootings-women/                 # B L A C K L I V E S M A T T E R    #actuallyAutistic
+https://www.washingtonpost.com/graphics/2020/investigations/police-shootings-women/               # B L A C K L I V E S M A T T E R    #actuallyAutistic
 
 
 
