@@ -80,7 +80,7 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 </p>
 <br><h3 align="right">Feel free to take a peek under the hood<br>🧐...There's no telling what you might find!</h3>
 
-## 💼[Linkedin](https://www.linkedin.com/in/a-todd-charliemike/) | 💻 [CodePen io](https://codepen.io/al0ysi0us) | 📷 [Instagram](https://www.instagram.com/aloysiousx/?hl=en) | ✏️ [Medium](https://medium.com/@AL0YSIOUS)  
+## 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/) | 📷 [Instagram](https://www.instagram.com/aloysiousx/?hl=en) | ✏️ [Medium](https://medium.com/@AL0YSIOUS)   . . . . . . . . . . . . . . . 🐰 . . . . . . . . . 🕳️ [SourceCred](https://github.com/sourcecred)  
 
 
 
