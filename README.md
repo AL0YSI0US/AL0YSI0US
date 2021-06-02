@@ -3,7 +3,7 @@
 
 
 ```bash
-📚 In the present moment I’m studying Python @Codefellows. 
+💻 In the present moment I’m Developing SourceCred with a brilliant team.
   
 
    My Top Special Interests are: Equality, Equity, Accountability and Activism.
@@ -89,9 +89,9 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
                                                                                                      
             Hello Hexx....                                                                                         
          
-     Hello Fellow Classmate(s)....                                                           -< EDIT CODE HERE >-
+     Hello Wanderer....                                                           -< EDIT CODE HERE >-
                                  
-       Hello Complete Stranger!                                 
+                                        
                                                                                                     
 
                     
@@ -144,16 +144,16 @@ This license lets others distribute, remix, adapt, and build upon your work, eve
 // // ................................................................................|                                          |  |
 // //............ <<<<<<<< E X T R A + C U R R I C U L A R S >>>>>>>> ................|                                          |  |
 // //#################################################################################|                                          |  |
-// //#                ::xxxx::              |            STUFF I SUPPORT             #|                                          |  |
-// //#       =========================      |         =====================          #|                                          |  |
-// //#                                      |  + Trauma Geek                         #|                                          |  |
-// //#              U N D E R               |  + real rent Pay Duwamish Tribe        #|                                          |  |
-// //#                                      |  + holistic resistance [Black Healers] #|                                          |  |
-// //#                                      |  + local 350 [Climate Change]          #|                                          |  |
-// //#       C O N S T R U C T I O N        |  + YouthCare [homeless youth org]      #|                                          |  |
-// //#                                      |  + The Mission Continues [vso]         #|                                      ___ |  | ___  
-// //#                                      |  + Team Rubicon [vso]                  #|                                      \          / 
-// //#                                      |  + Microcosm Publishing Company        #|                                       \        /
+// //#     🏆 NEURODIVERSITY CHAMPIONS                   WHAT TO SUPPORT             #|                                          |  |
+// //#     ============================               =====================          #|                                          |  |
+// //#     + Microcosm Publishing Company   |  + real rent Pay Duwamish Tribe        #|                                          |  |
+// //#     + Trauma Geek                    |  + local 350 [Climate Change]          #|                                          |  |
+// //#     + Dr. Nick Walker                |  + YouthCare [homeless youth org]      #|                                          |  |
+// //#     + Neurodivergent Rebel           |  + The Mission Continues [vso]         #|                                          |  |
+// //#     + neuroemergent_insurgent        |  + Team Rubicon [vso]                  #|                                          |  |
+// //#                                      |                                        #|                                      ___ |  | ___  
+// //#                                      |                                        #|                                      \          / 
+// //#                                      |                                        #|                                       \        /
 // //#################################################################################|                                        \      /
 // //      █─▄▄▄─█─▄▄─█▄─▄▄▀█▄─▄▄─█▄─▄▄─█▄─▄▄─█▄─▄███▄─▄███─▄▄─█▄─█▀▀▀█─▄█─▄▄▄▄█                                                \    /
 // //      █─███▀█─██─██─██─██─▄█▀██─▄████─▄█▀██─██▀██─██▀█─██─██─█─█─█─██▄▄▄▄─█  ©️                                              \  /
