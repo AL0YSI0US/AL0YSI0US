@@ -53,7 +53,7 @@
                                                                                           ― Beverly Daniel Tatum
 ````
 
-[![Aloysious's github activity graph](https://activity-graph.herokuapp.com/graph?username=AL0YSI0US&theme=redical)](https://github.com/AL0YSI0US/github-readme-activity-graph)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AL0YSI0US&layout=compact&theme=midnight-purple&card_width=960)](https://github.com/AL0YSI0US/github-readme-stats)
 
