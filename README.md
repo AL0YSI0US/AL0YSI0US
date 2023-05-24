@@ -6,15 +6,9 @@
 💻 In the present moment I’m Developing SourceCred with a brilliant team.
   
 
-   My Top Special Interests are: Equality, Equity, Accountability and Activism.
+   My Top Special Interests are: Peace, Wealth Redistribution, Radical Self Accountability, Land Stewardship and Activism.
   
-         I have deep Desires to bring said Energy with me as I continue to Transition into the tech industry.
                             
-                                          I served well over a Decade in the United States Armed Forces.
-                                                              
-                                          I'm stoked to leverage the Skills from my past...
-                                                                               
-                                          to help Fuel my Vision for my Future.
 ````
 
 <table align="center"><tr><td>
